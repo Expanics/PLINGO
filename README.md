@@ -8,12 +8,12 @@ pengembangan konten kreatif.
 ## 📁 Struktur Direktori
 
 ---
-.
-├── code/                  # Berisi script Python untuk preprocessing, training, dan visualisasi clustering
-├── data/                  # Berisi file dataset mentah dan hasil pembersihan
-├── model/                 # Berisi model clustering yang sudah disimpan
-├── cleaned_data.csv       # Dataset akhir setelah preprocessing
-├── merged_raw_data.csv    # Dataset gabungan hasil scraping mentah
+<pre><code>
+├── code/ # Berisi script Python untuk preprocessing, training, dan visualisasi 
+├── data/ # Berisi file dataset mentah dan hasil pembersihan 
+├── model/ # Berisi model clustering yang sudah disimpan 
+├── cleaned_data.csv # Dataset akhir setelah preprocessing 
+└── merged_raw_data.csv # Dataset gabungan hasil scraping mentah </code></pre>
 
 ---
 
